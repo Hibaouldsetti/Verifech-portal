@@ -1,0 +1,30 @@
+.chatbot-container {
+    position: fixed;
+    bottom: 80px;
+    right: 20px; 
+    height: 500px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  
+  .chatbot-toggle-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .chatbot-toggle-button:hover {
+    background-color: #0056b3;
+  }
+  .react-chatbot-kit-chat-bot-message, .react-chatbot-kit-user-chat-message, .react-chatbot-kit-chat-input, .react-chatbot-kit-chat-header {
+    font-size: 12px !important;
+  }
