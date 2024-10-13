@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Verifech-portal/static/css/main.5e054b56.css",
+    "main.js": "/Verifech-portal/static/js/main.5f85a22c.js",
+    "index.html": "/Verifech-portal/index.html",
+    "main.5e054b56.css.map": "/Verifech-portal/static/css/main.5e054b56.css.map",
+    "main.5f85a22c.js.map": "/Verifech-portal/static/js/main.5f85a22c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e054b56.css",
+    "static/js/main.5f85a22c.js"
+  ]
+}
