@@ -1,21 +1,20 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "On-Premise AI-Powered Contract Review for Legal Professionals",
+    "paragraph": "Automate contract drafting, analysis, and management with advanced AI tools that enhance compliance, reduce risks, and improve efficiency all within a secure, on-premise environment, ensuring full privacy and control over your data."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Our AI-powered contract review solutions are designed for security, scalability, and privacy. All data remains securely on-premise, ensuring that your legal documents and information stay within your control and are never exposed to external networks. Enjoy the benefits of advanced AI without compromising on privacy or data protection.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "On-Premise Security and Full Data Privacy",
+      "Increased Efficiency",
+      "Improved Accuracy"
+     
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Faster Negotiations",
+      "Enhanced Risk Detection",
+      "Proactive Lifecycle Management"
     ]
   },
   "Gallery": [
@@ -67,34 +66,45 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file-text",
+      "name": "Contract Review Automation",
+      "text": "Automatically extract key contract information, such as parties, dates, and amounts, while identifying and tagging critical clauses like confidentiality, indemnity, and intellectual property."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shield",
+      "name": "Risk Assessment and Scoring",
+      "text": "AI assesses legal, financial, and operational risks within contracts by assigning risk scores to clauses. Actionable mitigation strategies are provided to minimize exposure."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-clipboard",
+      "name": "Clause Drafting and Refinement",
+      "text": "Automatically draft standard legal clauses or refine existing ones with real-time AI suggestions to ensure compliance and clarity, reducing the likelihood of legal disputes."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-files-o",
+      "name": "Precedent Comparison",
+      "text": "Compare contracts against previous templates or precedents, highlighting deviations to ensure they align with legal standards and internal policies."
+    }],
+  "Services2": [
+    {
+      "icon": "fa fa-university",
+      "name": "Real-Time Negotiation Insights",
+      "text": "Prepare for and navigate contract negotiations with AI-driven rephrasing suggestions and scenario simulations. Receive real-time feedback on proposed changes to clauses and terms."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-calendar",
+      "name": "Post-Signing Contract Management",
+      "text": "Stay on top of your contracts with AI-powered lifecycle management. Automated alerts notify you of key dates like renewals and expirations, and monitor for potential breaches or non-compliance issues."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-retweet",
+      "name": "Review Old Contracts for Potential Risks",
+      "text": "Use AI to review older contracts, uncovering clauses that may be outdated, non-compliant, or expose your organization to future risks. Easily flag these issues for further review and action."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "AI-Powered Legal Summaries",
+      "text": "Automatically generate concise summaries of complex contracts, making it easy for legal teams and stakeholders to review the most critical points quickly and efficiently."
     }
   ],
   "Testimonials": [
@@ -152,33 +162,43 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "info@verifech.com",
+    "linkedin": "www.linkedin.com/company/ai-legal-review"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lock",
+      "title": "Security and Full Data Privacy",
+      "text": "All contract reviews are performed in a secure, on-premise environment, ensuring that your confidential data never leaves your control, protecting sensitive information from external threats."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-file-text",
+      "title": "Automated Contract Review",
+      "text": "Extract key contract details and analyze clauses using AI, significantly reducing the manual burden on legal teams and speeding up review processes."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-flag",
+      "title": "Risk Detection and Mitigation",
+      "text": "Identify risky clauses and predict potential contract outcomes with AI-powered analysis. Automatically flag issues and suggest safer alternatives to mitigate risks before they escalate."
     }
+
+    ],
+    "Features2": [
+    {
+      "icon": "fa fa-calendar",
+      "title": "Post-Signing Management",
+      "text": "Monitor contracts throughout their entire lifecycle. Receive automated alerts for important dates such as renewals, expirations, and potential breaches, ensuring compliance and proactive management."
+    },
+    {
+      "icon": "fa fa-retweet",
+      "title": "Review Your Old Contracts",
+      "text": "Use AI to revisit and analyze older contracts, flagging outdated or risky clauses that could lead to disputes or compliance problems in the future."
+    },
+     {
+      "icon": "fa fa-magic",
+      "title": "Predictive Analytics",
+      "text": "Leverage historical contract data to forecast risks and identify patterns that could inform future contract strategies, improving decision-making across your legal team."
+    }
+
   ]
 }
